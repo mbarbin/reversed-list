@@ -1,0 +1,6 @@
+(library
+ (name reversed_list)
+ (public_name reversed-list)
+ (libraries base)
+ (preprocess
+  (pps ppx_jane)))
