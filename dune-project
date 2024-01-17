@@ -18,8 +18,6 @@
 (package
  (name reversed-list)
  (synopsis "Repackaging core_kernel.reversed_list as a standalone package")
- (description
-  "Repackaging core_kernel.reversed_list as a standalone package")
  (depends
   (ocaml
    (>= 5.1))
