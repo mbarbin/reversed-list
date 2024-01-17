@@ -8,8 +8,8 @@ homepage: "https://github.com/mbarbin/reversed-list"
 doc: "https://mbarbin.github.io/reversed-list/"
 bug-reports: "https://github.com/mbarbin/reversed-list/issues"
 depends: [
+  "dune" {>= "3.12"}
   "ocaml" {>= "5.1"}
-  "dune" {>= "3.11" & >= "3.11"}
   "base" {>= "v0.16" & < "v0.17"}
   "ppx_jane" {>= "v0.16" & < "v0.17"}
   "odoc" {with-doc}
