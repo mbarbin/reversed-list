@@ -20,7 +20,7 @@
  (synopsis "Repackaging core_kernel.reversed_list as a standalone package")
  (depends
   (ocaml
-   (>= 5.1))
+   (>= 5.2))
   (base
    (and
     (>= v0.17)
