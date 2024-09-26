@@ -7,7 +7,7 @@ standalone opam package.
 
 Original code at https://github.com/janestreet/core_kernel/tree/master/reversed_list
 
-## Code documentation
+## Code Documentation
 
 The code documentation of the latest release is built with `odoc` and published
 to `GitHub` pages [here](https://mbarbin.github.io/reversed-list).
