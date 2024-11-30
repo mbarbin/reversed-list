@@ -15,6 +15,8 @@
 
 (documentation "https://mbarbin.github.io/reversed-list/")
 
+(implicit_transitive_deps false)
+
 (package
  (name reversed-list)
  (synopsis "Repackaging core_kernel.reversed_list as a standalone package")
